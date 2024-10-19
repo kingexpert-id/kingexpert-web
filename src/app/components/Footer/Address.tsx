@@ -24,7 +24,7 @@ const Address = () => {
           <Image src="/images/sms.png" alt="location" width={20} height={30} />
         </div>
 
-        <p className="text-xs">kingexperteducation@gmail.com</p>
+        <p className="text-xs">contact@kingexpert.id</p>
       </div>
     </div>
   );
